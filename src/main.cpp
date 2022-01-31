@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 //Rotary controls LED
-int rotaryPin = A0;    // select the input pin for the rotary
+int rotaryPin = A6;    // select the input pin for the rotary
 int ledPin = 4;      // select the pin for the LED
 int rotaryValue = 0;  // variable to store the value coming from the rotary
  
