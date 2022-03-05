@@ -4,4 +4,4 @@
 
 Grove Beginner Kit for Arduino
 
-This shows how to interface with the rotary potentiometer
+This example shows how to interface with the rotary potentiometer
